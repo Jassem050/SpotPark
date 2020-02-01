@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/ic_add_circle_black_24dp"
+            android:title="Add Place" />
+
+        <item
+            android:id="@+id/nav_added_places"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="Added Places" />
+        <item
+            android:id="@+id/nav_qr_code"
+            android:icon="@drawable/ic_qr_code"
+            android:title="QR Code Generater" />
+        <item
+            android:id="@+id/nav_qr_scanner"
+            android:icon="@drawable/ic_qr_code_scan"
+            android:title="QR Code Scanner" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="Logout"/>
+
+    </group>
+
+
+</menu>

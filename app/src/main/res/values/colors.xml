@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#512da8</color>
+    <color name="colorPrimaryDark">#673ab7</color>
+    <color name="colorAccent">#651fff</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <!-- Divider Color -->
+    <color name="DividerColor">#EEEEEE</color>
+</resources>
